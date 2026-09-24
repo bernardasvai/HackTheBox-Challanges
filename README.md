@@ -29,7 +29,7 @@ DFIR and threat hunting challenges. Every solved Sherlock includes:
 
 | Challenge | Difficulty | Category | Date |
 |-----------|------------|----------|------|
-| *(coming soon)* | | | |
+| [Baggage](HTB-Sherlocks/Baggage/Baggage.md) | TBD | DFIR | 2026-09-24 |
 
 ---
 
