@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141d2b,100:9fef00&height=220&section=header&text=HackTheBox%20Sherlocks&fontSize=45&fontColor=9fef00&animation=fadeIn&fontAlignY=38&desc=DFIR%20%7C%20Malware%20Analysis%20%7C%20Threat%20Hunting&descAlignY=55&descSize=18" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/AjbFYUVVpFaTu/giphy.gif" width="250" alt="Matrix Rain" />
 </p>
 
