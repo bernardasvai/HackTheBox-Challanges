@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141d2b,100:9fef00&height=220&section=header&text=HackTheBox%20Sherlocks&fontSize=45&fontColor=9fef00&animation=fadeIn&fontAlignY=38&desc=DFIR%20%7C%20Malware%20Analysis%20%7C%20Threat%20Hunting&descAlignY=55&descSize=18" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/AjbFYUVVpFaTu/giphy.gif" width="480" alt="Matrix Rain" />
+</p>
+
+---
+
 # Welcome
 
 This is my HackTheBox repository where I put solved challenges explained the way I understand them.
@@ -31,3 +41,7 @@ DFIR and threat hunting challenges. Every solved Sherlock includes:
 - YARA / Sigma rule writing
 - MITRE ATT&CK mapping
 - Log analysis (Windows Event Logs, Sysmon, network captures)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9fef00,100:141d2b&height=120&section=footer" width="100%" />
+</p>
