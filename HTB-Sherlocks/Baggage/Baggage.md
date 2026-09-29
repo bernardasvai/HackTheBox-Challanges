@@ -2,7 +2,7 @@
 
 | Field       | Details    |
 | ----------- | ---------- |
-| Difficulty  | Easy       |
+| Difficulty  | Very Easy |
 | Category    | DFIR       |
 | Date Solved | 2026-09-24 |
 | Status      | Solved     |
