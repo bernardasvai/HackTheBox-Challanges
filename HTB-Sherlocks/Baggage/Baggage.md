@@ -261,4 +261,4 @@ tags:
 
 ## What I Learned
 
-From this Sherlock i learned to use ShellBagsExplorer.exe and track foot steps of attacker, write timeline of the incident and write sigma rules for detection, MITRE attack mapping.
+From this Sherlock I learned to use ShellBags Explorer to track the attacker's footsteps: which folders they opened, the network share they accessed, and where they staged the data. The tricky part was timestamps. A folder has Created, Accessed and Last Interacted times, and only Last Interacted showed when the attacker was there. I also learned that shellbags show a folder was opened, but not that a program ran; for that you need UserAssist. I also learned about building an incident timeline, Sigma rules for detection, and MITRE ATT&CK mapping.
