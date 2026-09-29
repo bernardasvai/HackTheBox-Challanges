@@ -1,7 +1,9 @@
-# Obsidian settings (keep plugin configs out of repo)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/plugins/*/data.json
+# Only the Sherlock write-ups and README go to GitHub.
+# Everything else in the vault stays local.
+/*
+!/.gitignore
+!/README.md
+!/Sherlocks/
 
 # OS files
 .DS_Store
@@ -11,6 +13,3 @@ desktop.ini
 # Temporary files
 *.tmp
 *.bak
-
-# Personal projects (not for GitHub)
-Uzsikimsimo davikliai/

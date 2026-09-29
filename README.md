@@ -29,7 +29,7 @@ DFIR and threat hunting challenges. Every solved Sherlock includes:
 
 | Challenge | Difficulty | Category | Date |
 |-----------|------------|----------|------|
-| [Baggage](HTB-Sherlocks/Baggage/Baggage.md) | TBD | DFIR | 2026-09-24 |
+| [Baggage](Sherlocks/Baggage/Baggage.md) | Easy | DFIR | 2026-09-24 |
 
 ---
 
@@ -42,3 +42,9 @@ DFIR and threat hunting challenges. Every solved Sherlock includes:
 - MITRE ATT&CK mapping
 - Log analysis (Windows Event Logs, Sysmon, network captures)
 
+## Tools:
+
+OS: Windows 11 Pro 25H2
+VM: Flare-VM
+	Github: https://github.com/mandiant/flare-vm
+Additional Forensic Tool set: https://ericzimmerman.github.io/
