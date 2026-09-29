@@ -13,8 +13,6 @@
 
 A Shellbag artifact analysis challenge. Shellbags record evidence of folder access by a specific user including access to network shares and archive contents — and can be used to identify data access, staging, and exfiltration attempts.
 
-The evidence is a KAPE collection (target `RegistryHivesUser`) from host `PROD-WORKSTATIO`: the user registry hives (`NTUSER.DAT`, `UsrClass.dat` and their transaction logs) for the accounts `admin` and `steve`. The compromised account is **steve**.
-
 ---
 
 ## Investigation
